@@ -1,0 +1,17 @@
+{
+  "name": "karma-runs-twice-mcve",
+  "version": "1.0.0",
+  "description": "MCVE to demonstrate that a Karma.run() runs specs twice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^3.3.0",
+    "karma": "^4.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1"
+  }
+}
